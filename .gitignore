@@ -40,3 +40,5 @@ src/main/resources/data/archive/all_songs_data.json
 src/main/resources/data/archive/all_songs_data.csv
 src/main/resources/data/archive/all_songs_data_processed.csv
 src/main/resources/glove.840B.300d.txt
+.idea/uiDesigner.xml
+src/main/resources/song_lyrics.csv
